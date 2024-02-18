@@ -1,8 +1,8 @@
 {
   "name": "Sinred",
   "short_name": "Sinred",
-  "background_color": "#22335F",
-  "theme_color": "#22335F",
+  "background_color": "#935005",
+  "theme_color": "#935005",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
